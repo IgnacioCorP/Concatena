@@ -1,0 +1,2 @@
+# Concatena
+ Iniciar variables
